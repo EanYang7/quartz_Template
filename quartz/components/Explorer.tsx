@@ -8,7 +8,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
-  title: "Explorer",
+  title: "目录",
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
